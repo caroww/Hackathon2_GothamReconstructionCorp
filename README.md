@@ -1,4 +1,4 @@
-# Hackathon 2 : Gotham Reconstruction Corp
+# Hackathon 2 : Gotham Reconstruction Corp.
 
 ## Sujet :
 Créer un site innovant en utilisant l'API [SuperHero](https://superheroapi.com/).
